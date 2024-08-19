@@ -1,7 +1,5 @@
 # Skyalytics
-Navigating US Air Traffic - Performance and Delay Factors in Domestic Flights
-
-Website Link: https://sites.google.com/view/skyalytics/home?authuser=0
+[Navigating US Air Traffic - Performance and Delay Factors in Domestic Flights](https://sites.google.com/view/skyalytics/home?authuser=0)
 
 ## Project Overview
 
